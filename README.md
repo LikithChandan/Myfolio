@@ -2,10 +2,10 @@ A simple portfolio website...!
 
 Follow the below steps:
 # Clone this repository
-$ git clone https://github.com/cobidev/simplefolio
+$ git clone https://github.com/LikithChandan/Myfolio
 
 # Go into the repository
-$ cd simplefolio
+$ cd Myfolio
 
 # Remove current origin repository
 $ git remote remove origin
